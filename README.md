@@ -1,6 +1,5 @@
 # Project Euler Solutions
 
-
 This repository contains my solutions to selected problems from [Project Euler](https://projecteuler.net/), a series of challenging mathematical/computer programming problems.
 
 ## 🎯 Problems Solved
@@ -16,15 +15,19 @@ This repository contains my solutions to selected problems from [Project Euler](
 - **Implementation**: [`projecteuler312.py`](projecteuler312.py)
 - **Current Focus**: Optimizing algorithm for large numbers
 
-### 🔄 Problem 509: Divisor Game
-- **Status**: In Progress
-- **Implementation**: [`projecteuler509.py`](projecteuler509.py)
-- **Approach**: Using Sprague-Grundy theorem for game theory solution
+### ✅ Problem 509: Divisor Game
+- **Status**: Completed
+- **Solution**: [`projecteuler509.py`](projecteuler509.py)
+- **Verification**:
+  ![Solution Proof](euler509solved.png)
 
 ## 🛠️ Implementation Details
 
 ### Technology Stack
 - **Language**: Python 3
+- **Key Libraries**: 
+  - NumPy
+  - Numba (for performance optimization)
 
 ### Code Quality Focus
 - Efficient algorithmic implementations
@@ -39,3 +42,15 @@ This repository contains my solutions to selected problems from [Project Euler](
 python projecteuler62.py
 python projecteuler312.py
 python projecteuler509.py
+```
+
+## 📚 About Project Euler
+
+[Project Euler](https://projecteuler.net/) offers a unique platform that combines mathematics with programming. The problems require creative problem-solving approaches, making them excellent exercises for both mathematical thinking and coding skills.
+
+## 🔗 Links
+
+- [Project Euler Homepage](https://projecteuler.net/)
+- [Problem 62](https://projecteuler.net/problem=62)
+- [Problem 312](https://projecteuler.net/problem=312)
+- [Problem 509](https://projecteuler.net/problem=509)
