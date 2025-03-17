@@ -25,9 +25,6 @@ This repository contains my solutions to selected problems from [Project Euler](
 
 ### Technology Stack
 - **Language**: Python 3
-- **Key Libraries**: 
-  - NumPy
-  - Numba (for performance optimization)
 
 ### Code Quality Focus
 - Efficient algorithmic implementations
