@@ -12,8 +12,7 @@ This repository contains my solutions to selected problems from [Project Euler](
 
 ### ⏳ Problem 312: Cyclic Paths
 - **Status**: In Progress
-- **Implementation**: [`projecteuler312.py`](projecteuler312.py)
-- **Current Focus**: Optimizing algorithm for large numbers
+- **Problem**: The ouput doesn't match the actual answer. 
 
 ### ✅ Problem 509: Divisor Nim
 - **Status**: Completed
