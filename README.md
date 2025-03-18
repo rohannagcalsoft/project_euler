@@ -15,7 +15,7 @@ This repository contains my solutions to selected problems from [Project Euler](
 - **Implementation**: [`projecteuler312.py`](projecteuler312.py)
 - **Current Focus**: Optimizing algorithm for large numbers
 
-### ✅ Problem 509: Divisor Game
+### ✅ Problem 509: Divisor Nim
 - **Status**: Completed
 - **Solution**: [`projecteuler509.py`](projecteuler509.py)
 - **Verification**:

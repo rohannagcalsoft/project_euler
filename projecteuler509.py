@@ -1,9 +1,6 @@
 def compute_S(n, mod):
-    # Compute f[i] = number of x in [1, n] with v₂(x) = i.
-    # v₂(x)=0 means x is odd.
     f = []
     i = 0
-    # While 2^i <= n:
     while (1 << i) <= n:
         if i == 0:
             count = (n + 1) // 2 
