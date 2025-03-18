@@ -10,9 +10,11 @@ This repository contains my solutions to selected problems from [Project Euler](
 - **Verification**: 
   ![Solution Proof](euler62solved.png)
 
-### ⏳ Problem 312: Cyclic Paths
+### ✅ Problem 312: Cyclic Paths
 - **Status**: In Progress
-- **Problem**: The ouput doesn't match the actual answer. 
+- **Solution**: [`projecteuler62.py`](projecteuler312.py)
+- **Verification**:
+  ![Solution Proof](euler312solved.png)
 
 ### ✅ Problem 509: Divisor Nim
 - **Status**: Completed
