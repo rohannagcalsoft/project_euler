@@ -10,7 +10,7 @@ This repository contains my solutions to selected problems from [Project Euler](
 - **Verification**: 
   ![Solution Proof](euler62solved.png)
 
-### ✅ Problem 312: Cyclic Paths
+### ✅ Problem 312: Cyclic Paths on Sierpiński Graphs
 - **Status**: Completed
 - **Solution**: [`projecteuler312.py`](projecteuler312.py)
 - **Verification**:
