@@ -12,7 +12,7 @@ This repository contains my solutions to selected problems from [Project Euler](
 
 ### ✅ Problem 312: Cyclic Paths
 - **Status**: In Progress
-- **Solution**: [`projecteuler62.py`](projecteuler312.py)
+- **Solution**: [`projecteuler312.py`](projecteuler312.py)
 - **Verification**:
   ![Solution Proof](euler312solved.png)
 
